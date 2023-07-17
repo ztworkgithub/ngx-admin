@@ -1,13 +1,19 @@
 # ngx-admin
 参考前端项目
 
-git地址：
+git拉取地址：
+https://github.com/akveo/ngx-admin.git
+git官方地址：
 https://github.com/akveo/ngx-admin
 官方网址：
 http://akveo.github.io/ngx-admin/
 使用指南：
 https://akveo.github.io/ngx-admin/docs/getting-started/installation-guidelines#install-ngxadmin
 
+
+对官方项目修改之处：
+https://github.com/akveo/ngx-admin/pull/5945/files/1f4008b908d0573448ee5f4afa5256999655345d
+删除: package.json 中 65 行， "node-sass": "^4.14.1",
 
 
 环境配置：
